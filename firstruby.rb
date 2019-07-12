@@ -14,7 +14,7 @@ class Car
 end
         
         
-# Using above class to create objects
+# Using above class
 
 object = Sample. new
 object.hello
