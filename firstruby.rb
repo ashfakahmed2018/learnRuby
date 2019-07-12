@@ -1,7 +1,5 @@
 #!/user/bin/ruby
 
-
-
 $global_variable = 10
 
 class Sample
